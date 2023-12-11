@@ -1,0 +1,11 @@
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.csproj.AssemblyReference.cache
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.csproj.SuggestedBindingRedirects.cache
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.Form1.resources
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.Properties.Resources.resources
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.csproj.GenerateResource.cache
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.csproj.CoreCompileInputs.cache
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\bin\Debug\TowerOfHanoiProject.exe.config
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\bin\Debug\TowerOfHanoiProject.exe
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\bin\Debug\TowerOfHanoiProject.pdb
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.exe
+D:\vs\TowerOfHanoiProject\TowerOfHanoiProject\obj\Debug\TowerOfHanoiProject.pdb
